@@ -1,0 +1,14 @@
+Auto-Generated File: Do not Modify
+@Copyright: Company Name
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SN			Date				Action			Item				Staff				Description
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7	Friday,29th August 2014,05:27:30 PM	Login_Admin		thapasujan5@gmail.com		thapasujan5@gmail.com		Admin:Sujan Thapa Logged in Successfully 
+8	Friday,29th August 2014,05:28:15 PM	Logout_Admin		thapasujan5@gmail.com		thapasujan5@gmail.com		Admin:Sujan Thapa Logged out Successfully 
+9	Friday,29th August 2014,05:28:24 PM	Login_Admin		thapasujan5@gmail.com		thapasujan5@gmail.com		Admin:Sujan Thapa Logged in Successfully 
+10	Friday,29th August 2014,05:28:27 PM	Gallery_Viewed		thapasujan5@gmail.com		thapasujan5@gmail.com		Gallery Section Entered
+11	Friday,29th August 2014,05:29:23 PM	Entered_Core		thapasujan5@gmail.com		thapasujan5@gmail.com		Entered into Core Setting Managers
+1	Friday,29th August 2014,05:29:32 PM	Flush_Logs		thapasujan5@gmail.com		thapasujan5@gmail.com		Cleaned All Logs
+2	Friday,29th August 2014,05:29:33 PM	Entered_Core		thapasujan5@gmail.com		thapasujan5@gmail.com		Entered into Core Setting Managers
+3	Friday,29th August 2014,05:30:39 PM	Gallery_Viewed		thapasujan5@gmail.com		thapasujan5@gmail.com		Gallery Section Entered
+4	Friday,29th August 2014,05:30:42 PM	Entered_Core		thapasujan5@gmail.com		thapasujan5@gmail.com		Entered into Core Setting Managers

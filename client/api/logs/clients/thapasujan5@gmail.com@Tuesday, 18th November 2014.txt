@@ -1,0 +1,6 @@
+Auto-Generated File: Do not Modify
+@Copyright: Company Name
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SN			Date			Action			Item				Description
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1	Tuesday,18th November 2014,04:47:03 PM	Get:Issues		thapasujan5@gmail.com			Sent Issues Successfully.DATA={"status":"pass","data":[{"id":"1","title":"Advanced Computer Architectures","accession_no":"12","call_no":"ACA","lib_id":"24223","issued_date":"Tuesday, 18th November 2014, 04:46:34 PM","due_date":"Wednesday, 10 December, 2014","issued_by":"Sujan Thapa","status":""}]}

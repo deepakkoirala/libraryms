@@ -1,0 +1,11 @@
+Auto-Generated File: Do not Modify
+@Copyright: Company Name
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SN			Date			Action			Item				Description
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1	Friday,29th August 2014,02:25:17 PM	login		upamaacharya@gmail.com			Logged in Successfully.DATA={"status":"pass","data":[{"id":"0","fname":"Upama","lname":"Acharya","lib_id":"29101","mobile_number":"9841009743","email":"upamaacharya@gmail.com","password":"mmm","temporary_address":"Chapagaun","permanent_address":"Lalitpur","father_name":"Niranjan Acharya","batch":"2009","category":"Student","department":"ICT","member_image":"Upama_Acharya__28-08-2014_1409237752.jpg"}]}
+2	Friday,29th August 2014,02:25:40 PM	login		upamaacharya@gmail.com			Logged in Successfully.DATA={"status":"pass","data":[{"id":"0","fname":"Upama","lname":"Acharya","lib_id":"29101","mobile_number":"9841009743","email":"upamaacharya@gmail.com","password":"mmm","temporary_address":"Chapagaun","permanent_address":"Lalitpur","father_name":"Niranjan Acharya","batch":"2009","category":"Student","department":"ICT","member_image":"Upama_Acharya__28-08-2014_1409237752.jpg"}]}
+1	Friday,29th August 2014,05:14:40 PM	login		upamaacharya@gmail.com			Login Unsuccessful.DATA={"status":"fail"}
+2	Friday,29th August 2014,05:15:11 PM	login		upamaacharya@gmail.com			Login Unsuccessful.DATA={"status":"fail"}
+3	Friday,29th August 2014,05:16:17 PM	login		upamaacharya@gmail.com			Login Unsuccessful using Password:mmmmDATA={"status":"fail"}
+4	Friday,29th August 2014,05:17:11 PM	login		upamaacharya@gmail.com			Login Unsuccessful using Password:mmmm

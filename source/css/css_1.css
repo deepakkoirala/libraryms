@@ -1,0 +1,195 @@
+@charset "utf-8";
+
+/* CSS Document */
+#link {color:blue;}
+#link:hover{background:green; color:white; text-decoration:none;}
+#edit{color:black;}
+#edit:hover{background:red; color:white; text-decoration:none;}
+#editD{color:white;}
+#editD:hover{background:green;}
+
+.memberPhoto{ position:absolute; right:50px; top:20px; width:230px;padding:1px;}
+#member_image{ border:solid #0CF 1px;}
+#member_image:hover{border:solid 1px red;}
+
+.memberstatus{ width:880px;font-family:"Times New Roman", Times, serif; margin-top:20px;}
+.memberstatus a{ text-decoration:none;}
+.memberstatus a:hover{background:green; color:white;}
+.memberstatus table{}
+.memberstatus th{ background:#0091DD; padding:10px;font-size:18px; color:white; font-weight:normal; text-align:center; border:1px white solid;}
+.memberstatus td{ background:#a7d6f1;text-align:center; color:black;}
+
+.cover{ position:absolute; right:30px; top:20px; width:230px;padding:1px;}
+#member_image{ background:#ccc; border:solid #0CF 1px;}
+#member_image:hover{border:solid 1px red;}
+
+.bookstatus{ width:880px;font-family:"Times New Roman", Times, serif; margin-top:20px;}
+.bookstatus a{ text-decoration:none;}
+.bookstatus a:hover{background:green; color:white;}
+.bookstatus table{}
+.bookstatus th{ background:#0091DD;font-size:18px; color:white; font-weight:normal; text-align:center; border:1px white solid;}
+.bookstatus td{ padding:1px; background:#a7d6f1;text-align:center; color:black;}
+
+
+.operations{border:1px solid blue;margin:5px;width:165px; height:500px;margin-top:20px;padding:8px;padding-bottom:0px;float:left; background:#0091dd;}
+.operations input[type=submit]{width:150px;height:30px;}
+.operations input[type=submit]:hover{background:#093; color:white;}
+
+
+.viewAllIssues{font-family:"Times New Roman", Times, serif; width:auto;}
+.viewAllIssues a{ text-decoration:none; color:white;}
+.viewAllIssues a:hover{background:green; color:white;}
+.viewAllIssues table{}
+.viewAllIssues th{ background:#0091DD; padding:0px;font-size:18px; color:white; font-weight:normal; text-align:center; border:1px white solid;}
+.viewAllIssues td{ background:#C6E2FF;text-align:center; color:black; border:1px white solid; padding:1px;}
+.ui-autocomplete-loading {
+		background: white url('images/load.gif') right center no-repeat;
+	}
+.ui-autocomplete {max-height: 200px;overflow-y: auto;
+	/* prevent horizontal scrollbar */
+		overflow-x: hidden;
+	color:blue;
+	}
+	/* IE 6 doesn't support max-height
+	 * we use height instead, but this forces the menu to always be this tall
+	 */
+	* html .ui-autocomplete {
+		height: 100px;
+	}
+.adminArea{margin-top:250px;}
+
+.signup_form {}
+.signup_form table{ text-align:center; width:800px;  background:#0091dd; color:white; font-weight:normal; }
+.signup_form table th,td{ text-align:center;padding:5px;  border:1px solid white; font-weight:normal;}
+.signup_form select{  text-align:center; color:black; text-align:center;padding:5px; border:1px solid white; font-weight:normal;}
+.signup_form table input[TYPE=SUBMIT]{ text-align:center; width:250; height:50px;}
+.signup_form table input[TYPE=RESET]{ text-align:center; width:120; height:50px;}
+
+
+
+.editmemberdetails_form table {background:#0091dd; margin-top:0x; color:white; text-align:center; text-align:center; width:800px;}
+.editmemberdetails_form table th,td{text-align:center; font-weight:normal; border:1px solid white; text-align:center;}
+.editmemberdetails_form table input[TYPE=SUBMIT]{ text-align:center; width:300px; height:50px;}
+.editmemberdetails_form table input[TYPE=RESET]{ text-align:center; width:300px; height:50px;}
+
+.editbookdetails_form table {background:#0091dd; margin-top:0x; color:white; text-align:center;}
+.editbookdetails_form table th,td{text-align:center; font-weight:normal; border:1px solid white; text-align:center;}
+.editbookdetails_form table input[TYPE=SUBMIT]{ text-align:center; width:150px; height:50px;}
+.editbookdetails_form table input[TYPE=RESET]{ text-align:center; width:160px; height:50px;}
+
+deletemember_form {}
+.deletemember_form  table{ text-align:center; width:500px;  border:1px solid red; background:#0091dd; color:white; font-weight:normal; font-size:18px;}
+.deletemember_form  table th,td{ text-align:center; padding:10px; width:220px; border:1px solid white;}
+.deletemember_form  table input{ width:220px; height:50px; text-align:center;}
+
+.editmember_form {}
+#editmember_form{ width:100px; }
+.editmember_form table{ text-align:center; width:500px;   background:#0091dd; color:white; font-weight:normal; font-size:18px;}
+.editmember_form table th,td{ text-align:center; padding:10px; width:220px;height:50px; border:1px solid white;}
+.editmember_form table input{ width:220px; height:50px; text-align:center;}
+
+
+.addmember_form table {background:#0091dd; margin-top:0x; color:white; text-align:center; text-align:center;}
+.addmember_form table th,td{text-align:center; width:200px; font-weight:normal; border:1px solid white; text-align:center;}
+.addmember_form table input[TYPE=SUBMIT]{ text-align:center; width:200px; height:50px;}
+.addmember_form table input[TYPE=RESET]{ text-align:center; width:200px; height:50px;}
+
+deletebook_form {}
+.deletebook_form table{ text-align:center; width:500px;  border:1px solid red; background:#0091dd; color:white; font-weight:normal; font-size:18px;}
+.deletebook_form table th,td{ text-align:center; padding:10px; width:220px; border:1px solid white;}
+.deletebook_form table input{ width:220px; height:50px; text-align:center;}
+
+
+.editbookinfo {}
+#id_editbookinfo{ width:100px; }
+.editbookinfo table{ text-align:center; background:#0091dd; color:white; font-weight:normal; font-size:18px;}
+.editbookinfo table th,td{ text-align:center; padding:0px; width:200px;height:auto; border:1px solid white;}
+.editbookinfo table input{ width:220px; height:50px; text-align:center;}
+
+.addbook_form table {background:#0091dd; margin-top:0x; color:white; text-align:center; width:900px; overflow: auto;}
+.addbook_form table textarea{  height: 30px;}
+.addbook_form table td{text-align:center; font-weight:normal; border:1px solid white;}
+.addbook_form table th{text-align:center; font-weight:normal; border:1px solid white; width:100px;}
+.addbook_form table input[TYPE=SUBMIT]{ text-align:center; width:150px; }
+.addbook_form table input[TYPE=RESET]{ text-align:center; width:160px;}
+
+
+.return {}
+#id_return{ width:100px;}
+.return table{ text-align:center; width:500px;  border:1px solid red; background:#0091dd; color:white; font-weight:normal; font-size:18px;}
+.return table th,td{ text-align:center; padding:10px; width:220px; border:1px solid white;}
+.return table input{ width:220px; height:50px; text-align:center;}
+
+.issue {}
+#id_issue{ width:150px;}
+.issue table{ text-align:center; width:600px;  border:1px solid white; background:#0091dd; color:white; font-weight:normal; font-size:18px;}
+.issue table th,td{ text-align:center; padding:10px; width:220px; border:1px solid white;}
+.issue table input{ width:240px; height:50px; text-align:center;}
+
+.loginForm{}
+.loginForm table th{ color:green; font-size:18px; font-weight:normal;}
+.loginForm input[TYPE=SUBMIT]{width:500px; height:50px;}
+
+
+.info{ background:black;}
+.main{ width:1170px;overflow:auto;position:relative;float:right; height:520px;}
+
+
+#dp{}
+#search:hover{background:none;color:white;}
+#load{ margin-left:0px; margin-top:15px;}
+#libid{background:#FFC; color:blue;!important}
+#searchBox{height:30px;text-align:center;}
+#searchButton{width:inherit;text-align:center;}
+#url_aitm { text-decoration:none; color:red;}
+#logoutButton{width:90px; padding:1px;  text-align:center;}
+#btnLogin{background:#090; font-weight:normal; font-size:25px;}
+#btnLogin:hover{background:green;}
+#dateTime{float:right; padding-right:10px; padding-top:10px;text-align:center;color:white;}
+dateTime{padding-left:5px; padding-right:10px;}
+.weatherData{float:right;color:white; position:absolute; top:58px; right:10px; font-size:12px; text-align:center; font-family:Verdana, Geneva, sans-serif;}
+
+
+
+label {display: inline-block;width: 5em;background:#FC9;}
+
+.memberajax{font-family:"Times New Roman", Times, serif; width:auto; overflow: auto; margin-top:15px;}
+.memberajax a{ text-decoration:none; color:blue; }
+.memberajax a:hover{color:white; background:green; padding-top:5px; padding-bottom:5px;}
+a:hover{background:green; color:white;}
+
+#
+.memberajax table{}
+.memberajax th{ background:#0091DD; padding:0px;font-size:18px; color:white; font-weight:normal; text-align:center; border:1px white solid;}
+.memberajax td{ background:#C6E2FF;text-align:center; color:black; border:1px white solid; padding:1px;}
+
+.bookajax{font-family:"Times New Roman", Times, serif;}
+.bookajax a{ text-decoration:none; color:blue;}
+.bookajax a:hover{color:white; background:green; }
+.bookajax table{}
+.bookajax th{ background:#0091DD; padding:0px;font-size:18px; color:white; font-weight:normal; text-align:center; border:1px  white solid;}
+.bookajax td{ background:#C6E2FF;text-align:center; color:black; border:1px white solid; padding:1px;}
+
+.clear {clear:both;}
+
+
+.user{float:right; margin-right:20px;color:#FF0;font-weight:normal; padding-right:5px; padding-top:5px;}
+.user input[type=submit]:hover{background:red;color:white;}
+.user a{text-decoration:none;color:white; !important}
+
+.
+.message{color:red;font-size:12px;}
+.header{background:#0091DD;	height:80px;color:white; width:auto;}
+#libraryStatus{ background:none; color:white;width:300px; float:left; margin-left: 0px; padding-left:0px;}
+.title{ float:left; margin-left:0px; text-align: center;}
+.title a:hover{background:#f00;}
+.titleLogin{ float:left; margin-left: 275px; text-align: center;}
+.logo{float:left;}
+.logo img{height:80px; width:200px;}
+
+.aitm{top:0px;background:black;	margin:0 auto;width:400px;}
+	
+body{background-image:url(../images/background.png); background-repeat:repeat; margin:0 auto;  padding:0px;}
+
+.footer{text-align:center;background:#333;	color:#666;	position:fixed;	bottom:0px;	width:100%;	padding:20px;}
+.footer a{text-decoration:none;color:red;}

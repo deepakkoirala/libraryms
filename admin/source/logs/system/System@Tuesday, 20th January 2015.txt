@@ -1,0 +1,8 @@
+Auto-Generated File: Do not Modify
+@Copyright: Company Name
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SN			Date				Action			Item				Staff				Description
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2	Tuesday,20th January 2015,08:11:36 PM	Entered_Core		thapasujan5@gmail.com		thapasujan5@gmail.com		Entered into Core Setting Managers
+1	Tuesday,20th January 2015,08:11:54 PM	Flush_Logs		thapasujan5@gmail.com		thapasujan5@gmail.com		Cleaned All Logs
+2	Tuesday,20th January 2015,08:11:56 PM	Entered_Core		thapasujan5@gmail.com		thapasujan5@gmail.com		Entered into Core Setting Managers

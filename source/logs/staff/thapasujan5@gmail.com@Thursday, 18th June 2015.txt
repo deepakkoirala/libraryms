@@ -1,0 +1,12 @@
+Auto-Generated File: Do not Modify
+@Copyright: Company Name
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SN			Date			Action			Item			Description
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1	Thursday, 18th June 2015, 02:13:38 PM	Login		thapasujan5@gmail.com		Staff:Sujan Thapa Logged in Successfully 
+2	Thursday, 18th June 2015, 02:13:51 PM	Logout		thapasujan5@gmail.com		Staff:Sujan Thapa Logged out Successfully 
+3	Thursday, 18th June 2015, 02:14:06 PM	Login		thapasujan5@gmail.com		Staff:Sujan Thapa Logged in Successfully 
+4	Thursday, 18th June 2015, 02:14:46 PM	Issue_Book		AN:(11)		Issued Successfully:Data={"status":"Success","data":[{"flag":"0","accession_no":"11","call_no":"ACA","authors":"Kacsuk","title":"Advanced Computer Architectures","publisher":"PHI","published_date":"","published_place":"","edition":"2005","price":"0.00","pages":"0","volume":"","source":"Purchase","bill_no":"0","subject":"Computer Engneering","category":"Engineering","type":"Reference","remark":"","date_added":"Friday, 29th August 2014, 03:24:20 PM","cover":"11_ACA_29-08-2014_1409305160.jpg","status":""}]}
+5	Thursday, 18th June 2015, 02:15:58 PM	Return_Book		AN:(11)		Returned:Data={"status":"Success","data":[{"flag":"1","accession_no":"11","call_no":"ACA","authors":"Kacsuk","title":"Advanced Computer Architectures","publisher":"PHI","published_date":"","published_place":"","edition":"2005","price":"0.00","pages":"0","volume":"","source":"Purchase","bill_no":"0","subject":"Computer Engneering","category":"Engineering","type":"Reference","remark":"","date_added":"Friday, 29th August 2014, 03:24:20 PM","cover":"11_ACA_29-08-2014_1409305160.jpg","status":""}]}
+6	Thursday, 18th June 2015, 02:19:26 PM	Logout		thapasujan5@gmail.com		Staff:Sujan Thapa Logged out Successfully 
+7	Thursday, 18th June 2015, 02:19:50 PM	Login		thapasujan5@gmail.com		Staff:Sujan Thapa Logged in Successfully 

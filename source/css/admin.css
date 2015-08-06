@@ -1,0 +1,194 @@
+
+#none{text-decoration:none; color:white;}
+#none:hover{text-decoration:none; color:white; background:none;}
+
+.fineForm table{width:400px;}
+.fineForm td{text-align:center;}
+.fineForm th{text-align:center;}
+.fineForm input[type=submit],input[type=reset]{ width:100%;}
+.fineForm input[type=submit]:hover{ background:green;}
+
+.addDpt input[type = submit]{ width:100%;}
+.listlostbooks{position:relative;}
+.listlostbooks{font-family:"Times New Roman", Times, serif; width:auto;}
+.listlostbooks a{ color:white;}
+.listlostbooks a:hover{ background:green;color:white;}
+.listlostbooks table{ width:95%;}
+.listlostbooks th{ background:#0091DD; padding:5px;font-size:16px; color:white; font-weight:Bold; text-align:center; border:1px white solid;}
+.listlostbooks td{ background:#C6E2FF;text-align:center; color:black; border:1px white solid; padding:1px;}
+
+.adminArea{margin-top:250px;}
+#link {color:blue;}
+#link:hover{background:green; color:white;}
+#edit{color:black;}
+#edit:hover{background:red; color:white;}
+#editD{color:white;}
+#editD:hover{background:green;}
+
+#dropdownText{text-align:left;}
+.listwishlists{position:relative;}
+.listwishlists{font-family:"Times New Roman", Times, serif; width:auto;}
+.listwishlists a{ color:white;}
+.listwishlists a:hover{ background:green;color:white;}
+.listwishlists table{}
+.listwishlists th{ background:#0091DD; padding:5px;font-size:16px; color:white; font-weight:Bold; text-align:center; border:1px white solid;}
+.listwishlists td{ background:#C6E2FF;text-align:center; color:black; border:1px white solid; padding:1px;}
+
+
+.listConstants{font-family:"Times New Roman", Times, serif; width:600px;}
+.listConstants a{ text-decoration:none; color:white;}
+.listConstants a:hover{ background:green; color:white;}
+.listConstants table{}
+.listConstants th{ background:#0091DD; padding:5px;font-size:18px; color:white; font-weight:normal; text-align:center; border:1px white solid;}
+.listConstants td{ background:#C6E2FF;text-align:center; color:black; border:1px white solid; padding:1px;}
+
+.listcore{font-family:"Times New Roman", Times, serif; width:600px;}
+.listcore a{ text-decoration:none; color:white;}
+.listcore a:hover{ background:green; color:white;}
+.listcore table{}
+.listcore th{ background:#0091DD; padding:5px;font-size:18px; color:white; font-weight:normal; text-align:center; border:1px white solid;}
+.listcore td{ background:#C6E2FF;text-align:center; color:black; border:1px white solid; padding:1px;}
+
+.listStaffs{font-family:"Times New Roman", Times, serif; width:auto;}
+.listStaffs a{ color:white;}
+.listStaffs a:hover{ background:green;color:white;}
+.listStaffs table{}
+.listStaffs th{ background:#0091DD; padding:0px;font-size:16px; color:white; font-weight:normal; text-align:center; border:1px white solid;}
+.listStaffs td{ background:#C6E2FF;text-align:center; color:black; border:1px white solid; padding:1px;}
+
+#edit{color:black; }
+#edit:hover{background:red; color:white;}
+#btnLogin{background:#090; font-weight:normal; font-size:25px;}
+#btnLogin:hover{background:green;}
+body
+{
+	margin:0 auto;
+    font-family:sans-serif;
+}
+.wrapper
+{	width:auto
+    margin:0 auto;
+}
+.header
+{  background:#0091dd;
+   height:100px;   
+}
+.site_title
+{
+	margin-left:300px;
+	float:left;
+	margin-top:30;
+	font-size:30px;
+    text-align:center;
+	color:#fff;
+}
+.logout_link
+{
+	margin-top:15px;
+    float:right;
+    margin-right:20px;
+    color: white;
+    text-decoration:none;
+}
+.logout_link img{border:solid black 1px;}
+.logout_link img:hover{background:none; border:red solid 1px;}
+.back_link
+{
+    float:left;
+	margin-top:30px;
+    margin-left:20px;
+    font-size:20px;
+    font-weight:bold;
+    color: white;
+    text-decoration:none;
+}
+.header a:hover
+{
+	color:white;
+    background:red;
+	
+}
+
+
+.clear
+{
+    clear:both;
+}
+.menu
+{	
+    background: #8CC6FF;
+    height:44px;
+    margin-top:-9px;
+}
+.menu li
+{
+	
+	text-align:center;
+    float:left;
+	padding-right:50px;
+}
+.menu li a{
+	font-family:"Courier New", Courier, monospace;
+	color:white;
+    text-decoration: none;
+
+    padding:10px;
+}
+.menu li a:hover{
+    color:white;
+	font-weight:bold;
+    background:green;	
+}
+.main_content
+{
+	height:500px; overflow:auto;
+	width:auto; overflow:auto;	
+//   background: #C6E2FF;
+
+}
+.footerAdmin
+{
+	   text-align: center;
+    font-size: 16px;
+    height:30px;
+    background: #005BB7;
+    color:white;
+    padding:5px;
+}
+.manager_wrapper
+{
+    padding:10px;
+}
+.content_title
+{
+	margin-top:150px;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.manager_table
+{
+    width:500px;
+    margin:0 auto;
+}
+.add_button
+{
+    float:right;
+}
+.add_manager
+{
+    width:300px;
+    margin:0 auto;
+}
+.manager_sub_title
+{
+    text-align: center;
+}
+.slideshow{
+    width: 510px;
+    margin: 0 auto;
+}
+.slideshow img{
+    width: 500px;
+    margin: 0 auto;
+}

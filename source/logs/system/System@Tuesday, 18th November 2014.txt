@@ -1,0 +1,7 @@
+Auto-Generated File: Do not Modify
+@Copyright: Company Name
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SN			Date			Action		Item				Staff				Description
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1	Tuesday, 18th November 2014, 04:46:18 PM	Login		thapasujan5@gmail.com		thapasujan5@gmail.com		Staff:Sujan Thapa Logged in Successfully 
+2	Tuesday, 18th November 2014, 04:46:34 PM	Issue_Book		AN:(12)		thapasujan5@gmail.com		Issued Successfully:Data={"status":"Success","data":[{"flag":"0","accession_no":"12","call_no":"ACA","authors":"Kacsuk","title":"Advanced Computer Architectures","publisher":"PHI","published_date":"","published_place":"","edition":"2005","price":"0.00","pages":"0","volume":"","source":"Purchase","bill_no":"0","subject":"Computer Engneering","category":"Engineering","type":"Book","remark":"","date_added":"Friday, 29th August 2014, 03:24:20 PM","cover":"12_ACA_29-08-2014_1409305160.jpg","status":""}]}
